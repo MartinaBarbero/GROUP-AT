@@ -1,7 +1,6 @@
 """
 SAAM Project - Part I, Section 1: Data Cleaning
 Group AT: North America (AMER) / Scope 1+2
-
 This script:
   1. Loads all raw Datastream files
   2. Removes error rows and firms with no matching data
