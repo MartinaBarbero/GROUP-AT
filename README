@@ -1,0 +1,3 @@
+cd GROUP-AT
+python3 -m pip install numpy pandas openpyxl
+python3 -m pip install jupyter
